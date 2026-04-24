@@ -85,3 +85,4 @@ Last Updated: 2026-04-18
 | valentine-s-day-main | [Link](https://github.com/DM-Mulani-963/valentine-s-day-main) | /home/boss/Projects |
 | ventoy_vhdboot | [Link](https://github.com/DM-Mulani-963/ventoy_vhdboot) | /home/boss/Projects |
 | www.viewhomeee.com | [Link](https://github.com/DM-Mulani-963/www.viewhomeee.com) | /home/boss/Projects |
+| thm_automation | [Link](https://github.com/DM-Mulani-963/thm_automation) | /home/boss/Projects |
