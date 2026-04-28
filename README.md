@@ -87,3 +87,4 @@ Last Updated: 2026-04-18
 | www.viewhomeee.com | [Link](https://github.com/DM-Mulani-963/www.viewhomeee.com) | /home/boss/Projects |
 | thm_automation | [Link](https://github.com/DM-Mulani-963/thm_automation) | /home/boss/Projects |
 | 231040011006_ASS_Cryptography | [Link](https://github.com/DM-Mulani-963/231040011006_ASS_Cryptography) | /home/boss/Documents/crypto |
+| Seminar | [Link](https://github.com/DM-Mulani-963/Seminar) | /home/boss/Documents/crypto |
