@@ -90,3 +90,4 @@ Last Updated: 2026-04-18
 | Seminar | [Link](https://github.com/DM-Mulani-963/Seminar) | /home/boss/Documents/crypto |
 | Github_automation | [Link](https://github.com/DM-Mulani-963/Github_automation) | /home/boss/Documents/crypto |
 | HSS-Economics | [Link](https://github.com/DM-Mulani-963/HSS-Economics) | /home/boss/Documents/Collage/For Final |
+| DS | [Link](https://github.com/DM-Mulani-963/DS) | /home/boss/Documents/Collage/For Final |
