@@ -7,5 +7,3 @@ __pycache__/
 *.log
 bin/
 obj/
-.DS_Store
-*.pyc
