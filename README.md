@@ -91,3 +91,6 @@ Last Updated: 2026-04-18
 | Github_automation | [Link](https://github.com/DM-Mulani-963/Github_automation) | /home/boss/Documents/crypto |
 | HSS-Economics | [Link](https://github.com/DM-Mulani-963/HSS-Economics) | /home/boss/Documents/Collage/For Final |
 | DS | [Link](https://github.com/DM-Mulani-963/DS) | /home/boss/Documents/Collage/For Final |
+| AI_Company | [Link](https://github.com/DM-Mulani-963/AI_Company) | /home/boss/Projects |
+| FastPic.AI | [Link](https://github.com/DM-Mulani-963/FastPic.AI) | /home/boss/Projects |
+| surat-sync-system | [Link](https://github.com/DM-Mulani-963/surat-sync-system) | /home/boss/Desktop |
